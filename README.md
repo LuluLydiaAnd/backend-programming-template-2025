@@ -1,3 +1,32 @@
+# Take Home Quiz 1
+
+# 535250061 - Lulu Lydia Andrean
+
+- Endpoint yang dapat diakses:
+
+1. POST /api/gacha/draw :
+
+- Fungsi: untuk draw/pull gacha.
+- Info yang perlu diisi (saat tes di echoapi) di tab Body, pilih raw & JSON :
+- {
+  "userId": "XXXXX", contoh isi XX : user123, user456
+  "userName": "XXXXX" XXXX nanti diisi nama user
+  }
+
+2. GET /api/gacha/history :
+
+- Fungsi: untuk melihat riwayat draw gacha.
+- Info yang perlu diisi (saat tes di echoapi) di tab Params :
+- KEY : isi userId VALUE : isi username cnth: user123
+
+3. GET /api/gacha/prizes :
+
+- Fungsi: untuk melihat stok hadiah gacha yang masih ada.
+
+4. GET /api/gacha/winners :
+
+- Fungsi: untuk melihat list pemenang hadiah gacha.
+
 # Backend Programming Template (2025)
 
 ## Development Setup
