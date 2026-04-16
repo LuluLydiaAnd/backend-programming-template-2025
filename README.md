@@ -9,9 +9,9 @@
 - Fungsi: untuk draw/pull gacha.
 - Info yang perlu diisi (saat tes di echoapi) di tab Body, pilih raw & JSON :
 - {
-  "userId": "XXXXX", contoh isi XX : user123, user456
-  "userName": "XXXXX" XXXX nanti diisi nama user
-  }
+-  "userId": "XXXXX", contoh isi XX : user123, user456
+- "userName": "XXXXX" XXXX nanti diisi nama user
+-  }
 <img width="2559" height="1599" alt="Image" src="https://github.com/user-attachments/assets/7e4a2b16-f2c7-474b-ad39-29818e1582cf" />
 
 2. GET /api/gacha/history :
