@@ -12,20 +12,24 @@
   "userId": "XXXXX", contoh isi XX : user123, user456
   "userName": "XXXXX" XXXX nanti diisi nama user
   }
+<img width="2559" height="1599" alt="Image" src="https://github.com/user-attachments/assets/7e4a2b16-f2c7-474b-ad39-29818e1582cf" />
 
 2. GET /api/gacha/history :
 
 - Fungsi: untuk melihat riwayat draw gacha.
 - Info yang perlu diisi (saat tes di echoapi) di tab Params :
 - KEY : isi userId VALUE : isi username cnth: user123
+<img width="2559" height="1599" alt="Image" src="https://github.com/user-attachments/assets/1f2184ab-22d6-4124-9ec6-036a6153fadd" />
 
 3. GET /api/gacha/prizes :
 
 - Fungsi: untuk melihat stok hadiah gacha yang masih ada.
+<img width="2559" height="1599" alt="Image" src="https://github.com/user-attachments/assets/7d1a69a0-00fd-4f52-a746-8295ad74cdd6" />
 
 4. GET /api/gacha/winners :
 
 - Fungsi: untuk melihat list pemenang hadiah gacha.
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/f87ff42a-559d-48ec-94d2-c3c0b4fb3da7" />
 
 # Backend Programming Template (2025)
 
