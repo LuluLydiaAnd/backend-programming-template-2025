@@ -147,7 +147,6 @@ async function getWinners() {
       };
     }
 
-    // Mask nama secara acak
     const originalName = winner.userName || winner.userId;
     const maskedName = maskName(originalName);
 
